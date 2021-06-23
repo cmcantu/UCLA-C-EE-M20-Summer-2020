@@ -1,6 +1,6 @@
 
 % CEE/MAE M20 Summer session A 2020
-% Cassandra Cantu       UID: 305-100-205
+% Cassandra Cantu      
 %% Final Project
 
 % Clears command window
